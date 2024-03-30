@@ -1,3 +1,5 @@
+![info](IMG_20240329_222458_059_edit_1056632215608278.jpg)
+
 # NonCoin-MinerBot:
 Telegram Bot for 24/7 Non-Coin Miner
 
