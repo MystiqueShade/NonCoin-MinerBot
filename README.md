@@ -2,7 +2,7 @@
 ![info](IMG_20240329_222458_059_edit_1056632215608278.jpg)
 
 # NonCoin-MinerBot:
-Telegram Bot for 24/7 Non-Coin Miner
+>Telegram Bot for 24/7 Non-Coin Miner
 
 ## Description:
 This project is a Telegram bot that provides 24/7 mining capabilities for non-coin cryptocurrencies. Through this bot, users can intelligently and professionally engage in non-coin mining.
@@ -23,7 +23,7 @@ This project is released under an [open-source license](https://en.wikipedia.org
 ---
 
 # نام پروژه:
-ربات تلگرامی برای ماینر نات‌کوین 24/7
+>ربات تلگرامی برای ماینر نات‌کوین 24/7
 
 ## توضیحات:
 این پروژه یک ربات تلگرامی است که قابلیت ماینینگ بی‌وقفه برای رمزارزهای غیر-سکه‌ای را ارائه می‌دهد. از طریق این ربات، کاربران می‌توانند به صورت هوشمند و حرفه‌ای در عملیات ماینینگ غیر-سکه‌ای مشغول شوند.
