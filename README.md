@@ -1,3 +1,4 @@
+
 ![info](IMG_20240329_222458_059_edit_1056632215608278.jpg)
 
 # NonCoin-MinerBot:
@@ -39,6 +40,9 @@ This project is released under an [open-source license](https://en.wikipedia.org
 
 # لایسنس:
 این پروژه تحت یک [لایسنس متن باز](https://en.wikipedia.org/wiki/Open-source_license) منتشر شده است.
+---
+![info](NotCoin_edit_1058287658319834.jpg)
+
 ---
 <p align="center">
   <a href="https://t.me/MystiqueShade">
