@@ -1,0 +1,1 @@
+# NonCoin-MinerBot
