@@ -490,14 +490,14 @@ To start collecting Not Coins, you can use the following commands:
 
 Get ready to gather those shiny 🟡 Not Coins! 🚀
 
-Coded By: @kralCoder ~ [GitHub](https://github.com/Poryaei)
+Coded By: @MystiqueShade ~ [GitHub](https://github.com/MystiqueShade)
                           """)
     
     elif text == '/info':
         await _sendMessage("""
 🤖 Bot Name: Not Coin Collector Bot
-💻 Author: Abolfazl Poryaei
-🌐 GitHub: [Poryaei](https://github.com/Poryaei)
+💻 Author: MystiqueShade
+🌐 GitHub: [MystiqueShade](https://github.com/MystiqueShade)
         """)
     
     elif text == '/version':
