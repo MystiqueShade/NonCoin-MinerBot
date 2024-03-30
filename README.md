@@ -37,5 +37,18 @@ This project is released under an [open-source license](https://en.wikipedia.org
 
 # لایسنس:
 این پروژه تحت یک [لایسنس متن باز](https://en.wikipedia.org/wiki/Open-source_license) منتشر شده است.
+---
+<p align="center">
+  <a href="https://t.me/MystiqueShade">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@MystiqueShade">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/MystiqueShadeteam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
 
 
